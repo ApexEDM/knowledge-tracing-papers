@@ -14,3 +14,4 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 # Single-state methods
 ## Graph-free methods
 * Piech, Chris, et al. "[Deep knowledge tracing](https://arxiv.org/pdf/1506.05908.pdf)." arXiv preprint arXiv:1506.05908 (2015).
+* Nagatani, Koki, et al. "[Augmenting knowledge tracing by considering forgetting behavior](https://dl.acm.org/doi/abs/10.1145/3308558.3313565)." The world wide web conference. 2019.
