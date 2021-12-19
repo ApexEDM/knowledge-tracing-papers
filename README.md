@@ -9,3 +9,8 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 * [Multi-state methods](https://github.com/ApexEDM/knowledge-tracing-papers/#multi-state)
   * [Graph-free methods](https://github.com/ApexEDM/knowledge-tracing-papers#multi-graph-free)
   * [Graph-based methods](https://github.com/ApexEDM/knowledge-tracing-papers#multi-graph-based)
+* [Attention-based methods](https://github.com/ApexEDM/knowledge-tracing-papers/#attention)
+
+# Single-state methods
+## Graph-free methods
+* Piech, Chris, et al. "Deep knowledge tracing(https://arxiv.org/pdf/1506.05908.pdf)." arXiv preprint arXiv:1506.05908 (2015).
