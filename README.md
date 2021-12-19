@@ -17,3 +17,4 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 * DFKT: Nagatani, Koki, et al. "[Augmenting knowledge tracing by considering forgetting behavior](https://dl.acm.org/doi/abs/10.1145/3308558.3313565)." The world wide web conference. 2019.
 * DHKT: Wang, Tianqi, Fenglong Ma, and Jing Gao. "[Deep hierarchical knowledge tracing](https://par.nsf.gov/servlets/purl/10157350)." Proceedings of the 12th International Conference on Educational Data Mining. 2019.
 * EERNNA: Su, Yu, et al. "[Exercise-enhanced sequential modeling for student performance prediction](https://ojs.aaai.org/index.php/AAAI/article/download/11864/11723)." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 32. No. 1. 2018.
+* PDKT-C: Chen, Penghe, et al. "[Prerequisite-driven deep knowledge tracing](https://aic-fe.bnu.edu.cn/docs/20190108101850881476.pdf)." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.
