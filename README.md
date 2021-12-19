@@ -13,4 +13,4 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 
 # Single-state methods
 ## Graph-free methods
-* Piech, Chris, et al. "Deep knowledge tracing(https://arxiv.org/pdf/1506.05908.pdf)." arXiv preprint arXiv:1506.05908 (2015).
+* Piech, Chris, et al. "[Deep knowledge tracing](https://arxiv.org/pdf/1506.05908.pdf)." arXiv preprint arXiv:1506.05908 (2015).
