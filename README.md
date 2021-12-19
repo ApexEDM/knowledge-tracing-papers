@@ -4,5 +4,8 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 
 # Overview
 * [Single-state methods](https://github.com/ApexEDM/knowledge-tracing-papers/#single-state)
-  * [Graph-free methods](https://github.com/apexrl/Imitation-Learning-Paper-Lists#graph-free)
-  * [Graph-based methods](https://github.com/apexrl/Imitation-Learning-Paper-Lists#graph-based)
+  * [Graph-free methods](https://github.com/ApexEDM/knowledge-tracing-papers#single-graph-free)
+  * [Graph-based methods](https://github.com/ApexEDM/knowledge-tracing-papers#single-graph-based)
+* [Multi-state methods](https://github.com/ApexEDM/knowledge-tracing-papers/#multi-state)
+  * [Graph-free methods](https://github.com/ApexEDM/knowledge-tracing-papers#multi-graph-free)
+  * [Graph-based methods](https://github.com/ApexEDM/knowledge-tracing-papers#multi-graph-based)
