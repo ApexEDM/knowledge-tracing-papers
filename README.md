@@ -18,3 +18,10 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 * DHKT: Wang, Tianqi, Fenglong Ma, and Jing Gao. "[Deep hierarchical knowledge tracing](https://par.nsf.gov/servlets/purl/10157350)." Proceedings of the 12th International Conference on Educational Data Mining. 2019.
 * EERNNA: Su, Yu, et al. "[Exercise-enhanced sequential modeling for student performance prediction](https://ojs.aaai.org/index.php/AAAI/article/download/11864/11723)." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 32. No. 1. 2018.
 * PDKT-C: Chen, Penghe, et al. "[Prerequisite-driven deep knowledge tracing](https://aic-fe.bnu.edu.cn/docs/20190108101850881476.pdf)." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.
+* Long, Ting, et al. "[Tracing Knowledge State with Individual Cognition and Acquisition Estimation](https://wnzhang.net/papers/2021-sigir-iekt.pdf)." Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021.
+* Long, Ting, et al. " Improving Knowledge Tracing with Collaborative Information." Proceedings of the 15th ACM International Conference on Web Search and Data Mining. 2022.
+
+## Graph-based methods
+* GIKT:Yang, Yang, et al. "[GIKT: a graph-based interaction model for knowledge tracing](https://arxiv.org/pdf/2009.05991.pdf)." arXiv preprint arXiv:2009.05991 (2020).
+* Liu, Yunfei, et al. "[Improving knowledge tracing via pre-training question embeddings](https://arxiv.org/pdf/2012.05031.pdf)." arXiv preprint arXiv:2012.05031 (2020).
+* Sun, Jianwen, et al. "[Collaborative Embedding for Knowledge Tracing](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_27)." International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2021.
