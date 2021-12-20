@@ -32,7 +32,7 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 * Abdelrahman, Ghodai, and Qing Wang. "[Knowledge tracing with sequential key-value memory networks](https://arxiv.org/pdf/1910.13197.pdf)." Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019
 * Shen, Shuanghong, et al. "[Learning Process-consistent Knowledge Tracing](http://staff.ustc.edu.cn/~huangzhy/files/papers/ShuanghongShen-KDD2021.pdf)." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.
 
-##Graph-based methods
+## Graph-based methods
 * Nakagawa, Hiromi, Yusuke Iwasawa, and Yutaka Matsuo. "Graph-based knowledge tracing: modeling student proficiency using graph neural network(https://rlgm.github.io/papers/70.pdf)." 2019 IEEE/WIC/ACM International Conference on Web Intelligence (WI). IEEE, 2019.
 * Tong, Shiwei, et al. "[Structure-based Knowledge Tracing: An Influence Propagation View](http://staff.ustc.edu.cn/~huangzhy/files/papers/ShiweiTong-ICDM2020.pdf)." 2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020.
 
