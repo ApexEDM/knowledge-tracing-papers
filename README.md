@@ -3,6 +3,8 @@ Paper Collection for Knowledge Tracing with brief introductions. This collection
 To be precise, the "knowledge tracing" is education-based task which estimate students' mastery of knowledge by the probability of they correctly answering questions. Thus, the input of knwoledge tracing is usually defined as the question-asnwering history of a student and an arbitrary question, and the output is the probability of the student correctly answering the question.
 
 # Overview
+* [Probabilistic methods](https://github.com/ApexEDM/knowledge-tracing-papers/#Probabilistic-method)
+* [Logistic methods](https://github.com/ApexEDM/knowledge-tracing-papers/#Logistic-method)
 * [Single-state methods](https://github.com/ApexEDM/knowledge-tracing-papers/#single-state)
   * [Graph-free methods](https://github.com/ApexEDM/knowledge-tracing-papers#single-graph-free)
   * [Graph-based methods](https://github.com/ApexEDM/knowledge-tracing-papers#single-graph-based)
@@ -10,6 +12,9 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
   * [Graph-free methods](https://github.com/ApexEDM/knowledge-tracing-papers#multi-graph-free)
   * [Graph-based methods](https://github.com/ApexEDM/knowledge-tracing-papers#multi-graph-based)
 * [Attention-based methods](https://github.com/ApexEDM/knowledge-tracing-papers/#attention)
+
+# Probabilistic methods
+* BKT: Corbett, Albert T., and John R. Anderson. "[Knowledge tracing: Modeling the acquisition of procedural knowledge](https://perso.liris.cnrs.fr/pierre-antoine.champin/2014/m2iade-ia2/slides/_static/893CorbettAnderson1995.pdf)." User modeling and user-adapted interaction 4.4 (1994): 253-278.
 
 # Single-state methods
 ## Graph-free methods
@@ -26,7 +31,7 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 * Liu, Yunfei, et al. "[Improving knowledge tracing via pre-training question embeddings](https://arxiv.org/pdf/2012.05031.pdf)." arXiv preprint arXiv:2012.05031 (2020).
 * Sun, Jianwen, et al. "[Collaborative Embedding for Knowledge Tracing](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_27)." International Conference on Knowledge Science, Engineering and Management. Springer, Cham, 2021.
 
-# Single-state methods
+# Multi-states methods
 ## Graph-free methods
 * Zhang, Jiani, et al. "[Dynamic key-value memory networks for knowledge tracing](https://arxiv.org/pdf/1611.08108.pdf)." Proceedings of the 26th international conference on World Wide Web. 2017.
 * Abdelrahman, Ghodai, and Qing Wang. "[Knowledge tracing with sequential key-value memory networks](https://arxiv.org/pdf/1910.13197.pdf)." Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019
