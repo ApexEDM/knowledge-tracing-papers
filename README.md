@@ -14,8 +14,8 @@ To be precise, the "knowledge tracing" is education-based task which estimate st
 * [Attention-based methods](https://github.com/ApexEDM/knowledge-tracing-papers/#attention)
 
 # Survey
-* Liu Q, Shen S, Huang Z, et al. "A survey of knowledge tracing[J](https://arxiv.org/pdf/2105.15106.pdf)". arXiv preprint arXiv:2105.15106, 2021.
-* Abdelrahman G, Wang Q, Nunes B P. "Knowledge Tracing: A Survey[J](https://arxiv.org/pdf/2201.06953.pdf)". arXiv preprint arXiv:2201.06953, 2022.
+* Liu Q, Shen S, Huang Z, et al. "[A survey of knowledge tracing](https://arxiv.org/pdf/2105.15106.pdf)". arXiv preprint arXiv:2105.15106, 2021.
+* Abdelrahman G, Wang Q, Nunes B P. "[Knowledge Tracing: A Survey](https://arxiv.org/pdf/2201.06953.pdf)". arXiv preprint arXiv:2201.06953, 2022.
 
 # Probabilistic methods
 * BKT: Corbett, Albert T., and John R. Anderson. "[Knowledge tracing: Modeling the acquisition of procedural knowledge](https://perso.liris.cnrs.fr/pierre-antoine.champin/2014/m2iade-ia2/slides/_static/893CorbettAnderson1995.pdf)." User modeling and user-adapted interaction 4.4 (1994): 253-278.
